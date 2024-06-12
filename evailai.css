@@ -13,7 +13,7 @@ body{
     top: 0;
     width: 100vw;
     height: auto;
-    background-image: url('/assets/evailback.png');
+    background-image: url('evailback.png');
     background-size: cover;
     background-position: center;
     z-index: -2;
@@ -284,7 +284,7 @@ nav ul li a:hover {
     opacity: 1;
     color: rgb(52, 71, 103);
     box-shadow: none;
-    background: linear-gradient(195deg, rgba(66, 66, 74, 0.8), rgba(25, 25, 25, 0.8)) center center / cover, url(/assets/stud-sec.png.webp) transparent;
+    background: linear-gradient(195deg, rgba(66, 66, 74, 0.8), rgba(25, 25, 25, 0.8)) center center / cover, url(stud-sec.png.webp) transparent;
     border-radius: 0.75rem;
     background-position: center center;
     background-size: cover;}

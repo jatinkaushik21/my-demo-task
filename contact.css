@@ -13,7 +13,7 @@ body{
     top: 0;
     width: 100vw;
     height: auto;
-    background-image: url('/assets/evailback.png');
+    background-image: url('evailback.png');
     background-size: cover;
     background-position: center;
     z-index: -2;
@@ -405,7 +405,7 @@ nav ul li a:hover {
   }
   .left-column {
     width: 50%;
-    background: url('/assets/illustration-reset.c5f36c0c2262b9ad6165.jpg') no-repeat center center;
+    background: url('illustration-reset.c5f36c0c2262b9ad6165.jpg') no-repeat center center;
     background-size: cover;
     border-radius: 20px;
     margin-left: 20px;
